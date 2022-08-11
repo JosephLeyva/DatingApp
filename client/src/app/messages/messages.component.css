@@ -1,0 +1,28 @@
+.img-circle {
+    max-height: 50px;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+td {
+    vertical-align: middle;
+}
+
+.btn-red {
+   
+	padding: .50rem .75rem;
+	transition-duration: 0.3s;
+    background-color: #da292e;
+}
+
+.btn-red:hover {
+    background-color: #a41f23;
+
+}
