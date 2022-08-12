@@ -5,7 +5,7 @@
 }
 
 .nav-tabs > li.open, .member-tabset > .nav-tabs > li:hover {
-  border-bottom: 4px solid #fbcdcf;
+  border-bottom: 2px solid #8799e2;
 }
 
 .member-tabset > .nav-tabs > li.open > a, .member-tabset > .nav-tabs > li:hover > a {
@@ -22,10 +22,10 @@
   margin-top: 0px;
 }
 
-.member-tabset > .nav-tabs > li.active {
+/* .member-tabset > .nav-tabs > li.active {
   border-bottom: 4px solid #E95420;
   position: relative;
-}
+} */
 
 .member-tabset > .nav-tabs > li.active > a {
   border: 0 !important;
@@ -42,4 +42,18 @@
   border: 0;
   border-top: 1px solid #eee;
   padding: 15px 0;
+}
+
+
+table {
+    text-align: center;
+}
+
+th {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+td {
+    vertical-align: middle;
 }

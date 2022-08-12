@@ -1,0 +1,17 @@
+
+.btn-blue {
+   
+	padding: .50rem .75rem;
+	transition-duration: 0.3s;
+    background-color: #287bb5;
+}
+
+.btn-blue:hover {
+    background-color: #22699a;
+
+}
+
+div {
+    margin: 0;
+    padding: 1px;
+}
