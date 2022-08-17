@@ -50,8 +50,6 @@ export class PhotoEditorComponent implements OnInit {
     })
   }
 
-
-
   initializeUploader() {
     this.uploader = new FileUploader({
       url: this.baseUrl + 'users/add-photo',
